@@ -1,0 +1,10 @@
+2024-06-14T10:10:44.620330600 - Created directory example
+2024-06-14T10:11:21.519450900 - Deleted file example
+2024-06-14T10:38:24.906199700 - Created directory example
+2024-06-14T10:41:08.448328900 - Created directory exampleDir
+2024-06-14T10:41:23.181400700 - Created directory exampleDir/subDir
+2024-06-14T10:59:47.995381 - Created file exampleFile.txt
+2024-06-14T11:00:16.323943800 - Created file exampleDir/file.txt
+2024-06-14T11:00:42.568005200 - Copied file from exampleFile.txt to exampleDir/copiedFile.txt
+2024-06-14T11:11:46.882766600 - Created directory teste
+2024-06-14T12:05:22.610093100 - Renamed directory from exampleDir to newExampleDir

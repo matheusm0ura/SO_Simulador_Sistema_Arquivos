@@ -1,0 +1,7 @@
+DIR example
+DIR newExampleDir
+DIR newExampleDir/subDir
+FILE exampleFile.txt
+FILE newExampleDir/file.txt
+FILE newExampleDir/copiedFile.txt
+DIR teste
