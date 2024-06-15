@@ -5,3 +5,5 @@ FILE exampleFile.txt
 FILE newExampleDir/file.txt
 FILE newExampleDir/copiedFile.txt
 DIR teste
+DIR pasta
+FILE arquivo.txt
